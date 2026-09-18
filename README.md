@@ -1,15 +1,5 @@
 # 👗 Tammiey's Design - Bespoke Tailoring Website
 
-> A sophisticated, responsive website for Tammiey's Design, a bespoke tailoring atelier celebrating South African cultural heritage through custom-made garments.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-Semantic-orange.svg)](https://html.spec.whatwg.org/)
-[![CSS3](https://img.shields.io/badge/CSS3-Custom-blue.svg)](https://www.w3.org/Style/CSS/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![Responsive Design](https://img.shields.io/badge/Responsive-Mobile%20First-brightgreen.svg)](https://en.wikipedia.org/wiki/Responsive_web_design)
-
----
-
 ## 📋 Table of Contents
 
 - [Overview](#overview)
