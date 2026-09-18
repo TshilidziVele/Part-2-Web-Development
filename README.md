@@ -455,7 +455,7 @@ status = 200
 
 ---
 
-## ♿ Accessibility
+##  Accessibility
 
 ### WCAG AA Compliance
 
@@ -496,7 +496,7 @@ status = 200
 
 ---
 
-## 🌐 Browser Support
+##  Browser Support
 
 | Browser | Version | Support |
 |---------|---------|---------|
@@ -513,7 +513,7 @@ status = 200
 
 ---
 
-## 📝 Contributing
+##  Contributing
 
 ### How to Contribute
 
@@ -559,7 +559,7 @@ Have an idea? Open an issue with the `enhancement` label describing:
 
 ---
 
-## 📄 License
+##  License
 
 This project is licensed under the **MIT License** — see the [LICENSE](./LICENSE) file for details.
 
@@ -573,7 +573,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-## 📞 Contact & Support
+##  Contact & Support
 
 **Project Owner:** Tammiey's Design  
 **Email:** [info@tammiesdesign.co.za](mailto:info@tammiesdesign.co.za)  
@@ -586,14 +586,14 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ### Getting Help
 
-- 📚 **Documentation:** Check `/docs` folder
-- 🐛 **Bug Reports:** Use GitHub Issues
-- 💬 **Questions:** Start a GitHub Discussion
-- 📧 **Direct Contact:** Email the project owner
+-  **Documentation:** Check `/docs` folder
+-  **Bug Reports:** Use GitHub Issues
+-  **Questions:** Start a GitHub Discussion
+-  **Direct Contact:** Email the project owner
 
 ---
 
-## 🎯 Project Status
+## Project Status
 
 **Current Version:** 1.0.0  
 **Last Updated:** September 2026  
@@ -609,7 +609,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-## 📚 Additional Resources
+##  Additional Resources
 
 - [Design System Documentation](./docs/DESIGN-SYSTEM.md)
 - [SEO Strategy & Implementation](./docs/SEO-STRATEGY.md)
@@ -619,19 +619,9 @@ This project is licensed under the **MIT License** — see the [LICENSE](./LICEN
 
 ---
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
-- **Designer:** [Design Team Name]
-- **Developer:** [Developer Name]
-- **Project Manager:** [PM Name]
+- **Designer:** [Tshilidzi Ramukhatho]
+- **Student Number:** [ST10510383]
 - **Client:** Tammiey's Design
 
----
-
-<div align="center">
-
-### ⭐ If you find this project helpful, please consider giving it a star!
-
-Made with ❤️ by the Tammiey's Design Development Team
-
-</div>
