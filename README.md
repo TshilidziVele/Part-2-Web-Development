@@ -1,6 +1,6 @@
 # 👗 Tammiey's Design - Bespoke Tailoring Website
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Overview](#overview)
 - [Features](#features)
@@ -20,46 +20,45 @@
 
 ---
 
-## 🎯 Overview
+##  Overview
 
 Tammiey's Design is a **bespoke tailoring atelier** based in Potchefstroom, South Africa, specializing in custom-made garments that celebrate South African cultural heritage. This website serves as:
 
-- 📸 **Digital Portfolio:** Showcase 20+ completed projects with before/after galleries
-- 📅 **Booking Platform:** Integrated consultation scheduler
-- 🛍️ **E-Commerce Store:** Direct online ordering for bespoke tailoring
-- 📝 **Blog & Content Hub:** SEO-optimized articles on tailoring, fabrics, and styling
-- 💬 **Client Testimonials:** Build trust through authentic customer reviews
+-  **Digital Portfolio:** Showcase 20+ completed projects with before/after galleries
+-  **Booking Platform:** Integrated consultation scheduler
+-  **E-Commerce Store:** Direct online ordering for bespoke tailoring
+-  **Blog & Content Hub:** SEO-optimized articles on tailoring, fabrics, and styling
+-  **Client Testimonials:** Build trust through authentic customer reviews
 
 **Live Site:** [tammiesdesign.co.za](https://tammiesdesign.co.za)  
 **Client Portal:** [app.tammiesdesign.co.za](https://app.tammiesdesign.co.za)
 
 ---
 
-## ✨ Features
+##  Features
 
 ### Core Features
-- ✅ **Fully Responsive Design** - Optimized for mobile (375px), tablet (768px), desktop (1025px+)
-- ✅ **Performance Optimized** - <2s load time on 4G networks (Google PageSpeed 90+)
-- ✅ **SEO Optimized** - Schema markup, meta tags, XML sitemap, keyword targeting
-- ✅ **Accessibility Compliant** - WCAG AA standards, keyboard navigation, alt text
-- ✅ **Dark/Light Theme Toggle** - User preference saved in localStorage
-- ✅ **Consultation Booking System** - Real-time calendar with Calendly integration
-- ✅ **Portfolio Gallery** - Image lazy-loading with lightbox functionality
-- ✅ **E-Commerce Integration** - WooCommerce with Stripe/PayPal payment processing
-- ✅ **Newsletter Signup** - Mailchimp integration with automated workflows
+-  **Fully Responsive Design** - Optimized for mobile (375px), tablet (768px), desktop (1025px+)
+-  **Performance Optimized** - <2s load time on 4G networks (Google PageSpeed 90+)
+-  **SEO Optimized** - Schema markup, meta tags, XML sitemap, keyword targeting
+-  **Accessibility Compliant** - WCAG AA standards, keyboard navigation, alt text
+-  **Dark/Light Theme Toggle** - User preference saved in localStorage
+-  **Consultation Booking System** - Real-time calendar with Calendly integration
+-  **Portfolio Gallery** - Image lazy-loading with lightbox functionality
+-  **E-Commerce Integration** - WooCommerce with Stripe/PayPal payment processing
+-  **Newsletter Signup** - Mailchimp integration with automated workflows
 
 ### Advanced Features
-- 🎬 **Video Support** - Hero section with video background or carousel
-- 🔍 **Client Testimonials** - 5-star ratings, video reviews, client photos
-- 📊 **Analytics Integration** - Google Analytics 4, Hotjar for user insights
-- 📧 **Email Automation** - Automated confirmation, reminder, and follow-up emails
-- 🔐 **Security** - SSL/TLS encryption, PCI-DSS compliance, GDPR-ready
-- 🗺️ **Location Integration** - Google Maps embedded with business information
-- 📱 **Social Media Integration** - Instagram feed, social sharing, follow buttons
+-  **Video Support** - Hero section with video background or carousel
+-  **Client Testimonials** - 5-star ratings, video reviews, client photos
+-  **Analytics Integration** - Google Analytics 4, Hotjar for user insights
+-  **Email Automation** - Automated confirmation, reminder, and follow-up emails
+-  **Security** - SSL/TLS encryption, PCI-DSS compliance, GDPR-ready
+-  **Location Integration** - Google Maps embedded with business information
+-  **Social Media Integration** - Instagram feed, social sharing, follow buttons
 
----
 
-## 🚀 Quick Start
+## Quick Start
 
 ### For Designers & Project Managers
 
@@ -67,28 +66,6 @@ Tammiey's Design is a **bespoke tailoring atelier** based in Potchefstroom, Sout
 2. **View Prototypes:** [Figma Design File](https://figma.com/file/xxx)
 3. **Check User Flows:** [/docs/user-flows](./docs/user-flows/)
 
-### For Developers
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/tammies-design.git
-cd tammies-design
-
-# Install dependencies (if using npm)
-npm install
-
-# Start local development server
-npm run dev
-# or
-python -m http.server 8000
-
-# Build for production
-npm run build
-```
-
-**No build step required** — This is vanilla HTML, CSS, and JavaScript. Simply open `index.html` in your browser or deploy to any web server.
-
----
 
 ## 📁 Project Structure
 
