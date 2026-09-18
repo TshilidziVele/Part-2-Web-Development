@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Tammie's Design</title>
+    <link rel="stylesheet" href="css_assets/myfirststyles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <img src="_images/Tammieys Design.png.png" alt="Tammie's Design Logo">
+            <div class="header-branding">
+                <h1>Tammie's Design</h1>
+                <p>Bespoke Tailoring & Custom Garments</p>
+            </div>
+            <nav>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="about.html">About Us</a></li>
+                    <li><a href="services.html">Services</a></li>
+                    <li><a href="product.html">Portfolio</a></li>
+                    <li><a href="contact.html" class="active">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="welcome">
+            <div class="container">
+                <h2>Get In Touch With Us</h2>
+                <div class="content-box box-primary">
+                    <p>We would love to hear from you! Get in touch with Tammie's Design to discuss your custom tailoring needs, schedule a consultation, or ask any questions about our services.</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="services">
+            <div class="container">
+                <h2>Contact Information</h2>
+                
+                <div class="contact-cards">
+                    <div class="contact-card">
+                        <div class="contact-icon"></div>
+                        <h3>Location</h3>
+                        <p>Potchefstroom<br>South Africa</p>
+                    </div>
+                    
+                    <div class="contact-card">
+                        <div class="contact-icon"></div>
+                        <h3>Email</h3>
+                        <p><a href="mailto:contact@tammiesdesign.co.za">contact@tammiesdesign.co.za</a></p>
+                    </div>
+                    
+                    <div class="contact-card">
+                        <div class="contact-icon"></div>
+                        <h3>Phone</h3>
+                        <p><a href="tel:+27682192670">+27 (0) 68 219 2670</a></p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="welcome">
+            <div class="container">
+                <h2>Business Hours</h2>
+                
+                <div class="content-box box-light">
+                    <ul>
+                        <li><strong>Monday - Friday:</strong> 09:00 AM - 18:00 PM</li>
+                        <li><strong>Saturday:</strong> 10:00 AM - 16:00 PM</li>
+                        <li><strong>Sunday:</strong> Closed</li>
+                    </ul>
+                    <p style="margin-top: 15px;"><em>For urgent inquiries outside business hours, please leave a message and we will respond as soon as possible.</em></p>
+                </div>
+            </div>
+        </section>
+
+        <section class="services">
+            <div class="container">
+                <h2>Send Us an Enquiry</h2>
+                <p class="intro-text">Fill out the form below to submit an enquiry about our services. We will respond within 24-48 business hours.</p>
+                
+                <div style="background: rgba(255,255,255,0.95); padding: 40px; border-radius: 16px; box-shadow: 0 12px 35px rgba(0, 0, 0, 0.10);">
+                    <form action="enquiries.html" method="POST">
+                        <fieldset style="border: none; padding: 0; margin-bottom: 30px;">
+                            <legend style="font-size: 1.2rem; font-weight: 600; color: var(--gold-dark); margin-bottom: 20px;">Personal Information</legend>
+                            
+                            <div class="form-group">
+                                <label for="name">Full Name:</label>
+                                <input type="text" id="name" name="name" required>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="email">Email Address:</label>
+                                <input type="email" id="email" name="email" required>
+                            </div>
+                            
+                            <div class="form-group">
+                                <label for="phone">Phone Number:</label>
+                                <input type="tel" id="phone" name="phone" required>
+                            </div>
+                        </fieldset>
+
+                        <fieldset style="border: none; padding: 0; margin-bottom: 30px;">
+                            <legend style="font-size: 1.2rem; font-weight: 600; color: var(--gold-dark); margin-bottom: 20px;">Enquiry Details</legend>
+                            
+                            <div class="form-group">
+                                <label for="service">Service Type:</label>
+                                <select id="service" name="service" required>
+                                    <option value="">-- Select a service --</option>
+                                    <option value="womens">Women's Custom Tailoring</option>
+                                    <option value="mens">Men's Bespoke Tailoring</option>
+                                    <option value="special">Special Occasions</option>
+                                    <option value="other">Other</option>
+                                </select>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="occasion">Occasion/Purpose:</label>
+                                <input type="text" id="occasion" name="occasion" placeholder="e.g., Wedding, Business attire">
+                            </div>
+
+                            <div class="form-group">
+                                <label for="message">Message or Details:</label>
+                                <textarea id="message" name="message" rows="5" required></textarea>
+                            </div>
+
+                            <div class="form-group">
+                                <label for="date">Desired Completion Date:</label>
+                                <input type="date" id="date" name="date">
+                            </div>
+                        </fieldset>
+
+                        <fieldset style="border: none; padding: 0; margin-bottom: 30px;">
+                            <legend style="font-size: 1.2rem; font-weight: 600; color: var(--gold-dark); margin-bottom: 20px;">Preferences</legend>
+                            
+                            <div class="form-group">
+                                <label for="contact_method">Preferred Contact Method:</label>
+                                <select id="contact_method" name="contact_method">
+                                    <option value="email">Email</option>
+                                    <option value="phone">Phone</option>
+                                    <option value="whatsapp">WhatsApp</option>
+                                </select>
+                            </div>
+
+                            <div class="checkbox-group">
+                                <input type="checkbox" id="visit" name="visit">
+                                <label for="visit">Yes, I would like to schedule a consultation</label>
+                            </div>
+                        </fieldset>
+
+                        <div style="display: flex; gap: 15px; justify-content: center;">
+                            <button type="submit" class="btn btn-primary">Submit Enquiry</button>
+                            <button type="reset" class="btn btn-outline">Clear Form</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+
+        <section class="welcome">
+            <div class="container">
+                <h2>Follow Us On Social Media</h2>
+                <p class="intro-text">Stay updated on our latest designs and special projects. Connect with us:</p>
+                
+                <div class="content-box box-secondary">
+                    <ul>
+                        <li><strong>Facebook:</strong> Tammie's Design</li>
+                        <li><strong>Instagram:</strong> @tammiesdesign</li>
+                        <li><strong>WhatsApp:</strong> <a href="tel:+27682192670">Contact for details</a></li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="callout">
+            <div class="container">
+                <h2>Questions? We're Here to Help!</h2>
+                <p>Don't hesitate to reach out. We're excited to help you create your perfect garment.</p>
+                <a href="mailto:contact@tammiesdesign.co.za" class="btn btn-primary">Email Us Now</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h4>Tammie's Design</h4>
+                    <p>Premium bespoke tailoring celebrating South African cultural heritage with contemporary craftsmanship.</p>
+                </div>
+                <div class="footer-section">
+                    <h4>Quick Links</h4>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">About Us</a></li>
+                        <li><a href="services.html">Services</a></li>
+                        <li><a href="product.html">Portfolio</a></li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h4>Contact Info</h4>
+                    <p> Potchefstroom, South Africa</p>
+                    <p> <a href="mailto:contact@tammiesdesign.co.za">contact@tammiesdesign.co.za</a></p>
+                    <p> <a href="tel:+27682192670">+27 (0) 68 219 2670</a></p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Tammie's Design. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
